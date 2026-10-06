@@ -1,7 +1,0 @@
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.csproj.AssemblyReference.cache
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.AssemblyInfoInputs.cache
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.AssemblyInfo.cs
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.csproj.CoreCompileInputs.cache
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Lab-12\FixMyCampus\backend\FixMyCampus.Api\obj\Debug\net7.0\FixMyCampus.Api.MvcApplicationPartsAssemblyInfo.cache
